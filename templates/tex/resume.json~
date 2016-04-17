@@ -1,0 +1,174 @@
+{
+  "basics": {
+    "name": "sreeram",
+    "label": "MS Information Systems",
+    "picture": "http://maberger.com/images/maberger.png",
+    "email": "sreenath.s@husky.neu.edu",
+    "phone": "",
+    "website": "http://mandikal.com",
+    "summary": "I'm a software developer from Boston, USA. I'm currently pursuing master's program in Information Systems at Northeastern University and I'm looking for new opportunities. I'm most at home being a java developer and I really enjoy coding in java. However I also have experience in building web applications. I have prior experience in server-side development and working with databases. Consistency and clear communication have always been very important to me and I'm a quick learner who is always eager to pick up new technologies.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Boston",
+      "countryCode": "US",
+      "region": "MA"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "sreeram6791",
+        "url": "https://github.com/sreeram6791"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "mandikal",
+        "url": "https://www.linkedin.com/in/mandikal"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Zugzwang Pvt. Ltd.",
+      "position": "Business Analyst",
+      "website": "http://www.zugzwang.in/",
+      "startDate": "2014-03-01",
+      "endDate": "2015-05-28",
+      "summary": "Bangalore, India",
+      "highlights": [
+        "Gathered and analysed data from various data sources and made reports using spreadsheets.",
+        "Designed online dashboards for company founder using web technologies.",
+        "Monitored company's website analytics with google analytics. Made reports for marketing team.",
+        "Built automated reply system to emails from google spreadsheets, using scripts"
+      ]
+    },
+    {
+      "organization": "Eclipse Innovations",
+      "position": "Business Analyst",
+      "website": "http://www.eclipseinnovations.in/",
+      "startDate": "2013-02-08",
+      "endDate": "2014-02-25",
+      "summary": "Bangalore, India",
+      "highlights": [
+        "Built a time-logging system with automated report genaration, in java",
+        "Educated and implemented of the use of cloud based tools for administrative work. This greatly improved efficiency of the organization"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "PES Institute of Technology, Bangalore South campus",
+      "area": "Bangalore, India",
+      "studyType": "Bachelor's degree in Information Science and Engineering",
+      "startDate": "2009-08-01",
+      "endDate": "2013-05-15",
+      "gpa": "",
+      "courses": [
+        "DB1101 - Basic SQL",
+        "CS2011 - Java Introduction"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Object-oriented programming",
+      "level": "",
+      "keywords": [
+        "Python",
+        "Java"
+      ]
+    },
+    {
+      "name": "Front-end tech/frameworks",
+      "level": "",
+      "keywords": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "AngularJS"
+      ]
+    },
+    {
+      "name": "Platforms",
+      "level": "",
+      "keywords": [
+        "Web",
+        "Unix"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native proficiency"
+    },
+    {
+      "language": "Kannada",
+      "fluency": "Mother tongue & Native speaker"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native proficiency"
+    },
+    {
+      "language": "Telgu",
+      "fluency": "Minimum proficiency"
+    },
+    {
+      "language": "Tamil",
+      "fluency": "Elementary proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Design",
+      "keywords": [
+        "User interfaces",
+        "user experience",
+        "layouts and themes",
+        "LaTeX"
+      ]
+    },
+    {
+      "name": "Internet",
+      "keywords": [
+        "Latest web tech",
+        "open-source projects",
+        "software development blogs"
+      ]
+    },
+    {
+      "name": "Fun",
+      "keywords": [
+        "Film",
+        "chess",
+        "television",
+        "swimming/walking",
+        "politics"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "reference": ""
+    }
+  ]
+}
