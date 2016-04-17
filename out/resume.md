@@ -42,12 +42,6 @@ I'm a software developer from Boston, USA. I'm currently pursuing master's progr
 * Educated and implemented of the use of cloud based tools for administrative work. This greatly improved efficiency of the organization
 
 
-### Awards, Scholarships, & Achievements
-
-**** ()  
-**, 
-
-
 ### Interests
 
 **Design**: User interfaces, user experience, layouts and themes, LaTeX  
