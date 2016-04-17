@@ -28,6 +28,12 @@ Web: [{{ b.website }}]({{ b.website }} "{{ b.name }}'s Website")
 {% for highlight in w.highlights %}* {{ highlight }}
 {% endfor %}{% endfor %}
 
+### Awards, Scholarships, & Achievements
+{% for award in resume.awards %}
+**{{ award.title }}** ({{ award.awarder }})  
+*{{ award.summary }}*, {{ award.date | date: "%b %Y" }}
+{% endfor %}
+
 ### Interests
 {% for interest in resume.interests %}
 **{{ interest.name }}**: {{ interest.keywords | join: ', ' }}  {% endfor %}

@@ -35,6 +35,13 @@ Experience
 {% for highlight in w.highlights %}* {{ highlight }}
 {% endfor %}{% endfor %}
 
+Awards, Scholarships, & Achievements
+--------------------------------------------------------------------------------
+{% for award in resume.awards %}
+{% justify_text award.title award.awarder %}
+{% justify_date award.summary award.date %}
+{% endfor %}
+
 Interests
 --------------------------------------------------------------------------------
 {% for interest in resume.interests %}

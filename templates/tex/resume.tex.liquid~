@@ -160,6 +160,12 @@
 \end{itemize}
 {% endfor %}
 
+\section*{Awards, Scholarships, \& Achievements}
+{% for a in resume.awards %}
+\itemtitle{ {{ a.title }} }{ {{ a.awarder }} }
+\itemdetail{ {{ a.summary }} }{ {{ a.date | date: '%b %Y' }} }
+{% endfor %}
+
 \section*{Interests}
 {% for i in resume.interests %}
 \textbf{\trim{ {{ i.name }}: }} {{ i.keywords | join: ', ' }}
